@@ -1,0 +1,119 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera, la cité troglodyte : Détente et histoire",
+  "budget_total": "650-700€",
+  "duree": "4 jours",
+  "temps_vol": "4h30 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et première immersion douce",
+      "legende": "Après votre vol, un transfert vous mènera à Matera. Installez-vous et laissez-vous charmer par une première balade relaxante dans les Sassi Barisano, les quartiers historiques creusés dans la roche.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Bari:</strong> Atterrissez à l'aéroport de Bari (BRI) après votre vol depuis Paris, France.",
+        "<strong>🚌 Transfert vers Matera:</strong> Prenez un bus direct ou un train (avec changement à Altamura) pour rejoindre Matera, un trajet d'environ 1h30.",
+        "<strong>🛏️ Installation à l'hôtel:</strong> Enregistrez-vous dans votre \"sasso\" hôtel, une expérience unique d'hébergement troglodyte.",
+        "<strong>🚶‍♂️ Balade douce dans les Sassi Barisano:</strong> Profitez d'une première promenade sans hâte dans la partie nord des Sassi, en admirant les vues et l'architecture unique."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil transport",
+          "texte": "Le bus \"Pugliairbus\" relie directement l'aéroport de Bari à Matera en environ 1h. C'est l'option la plus simple et rapide."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚶‍♀️",
+      "titre": "Exploration des Sassi et panoramas apaisants",
+      "legende": "Plongez au cœur des Sassi Caveoso, visitez une maison-grotte pour comprendre la vie d'antan, puis terminez la journée par une vue imprenable sur la ville depuis un belvédère, idéal pour la détente.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♀️ Découverte des Sassi Caveoso:</strong> Explorez la partie sud des Sassi, plus ancienne et plus \"sauvage\", avec ses ruelles sinueuses et ses habitations rupestres.",
+        "<strong>🏠 Visite d'une Casa Grotta:</strong> Imprégnez-vous de l'histoire locale en visitant une maison-grotte meublée, comme la Casa Grotta di Vico Solitario, pour comprendre le mode de vie traditionnel.",
+        "<strong>⛪ Exploration des églises rupestres:</strong> Découvrez quelques-unes des fascinantes églises rupestres disséminées dans les Sassi, comme Santa Lucia alle Malve, avec leurs fresques anciennes.",
+        "<strong>🌅 Coucher de soleil au Belvedere di Murgia Timone:</strong> Traversez le canyon de la Gravina pour atteindre le belvédère offrant une vue panoramique spectaculaire sur Matera, parfait pour un moment de sérénité."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Chaussures confortables",
+          "texte": "Les Sassi sont faits de pavés et de pentes. Prévoyez des chaussures de marche confortables pour profiter pleinement de l'exploration."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Artisanat, saveurs locales et balade nature",
+      "legende": "Flânez dans les ateliers d'artisans locaux, savourez les délices de la cuisine lucanienne et offrez-vous une balade paisible le long du canyon de la Gravina, loin de l'agitation.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛍️ Rencontre avec l'artisanat local:</strong> Visitez les boutiques d'artisans dans les Sassi, découvrez la poterie, les bijoux et les objets en \"tufo\" (tuf, la pierre locale).",
+        "<strong>🍝 Cours de cuisine lucanienne (optionnel):</strong> Participez à un atelier culinaire pour apprendre à préparer des plats typiques de la Basilicate, une activité relaxante et gourmande.",
+        "<strong>🌳 Balade le long de la Gravina:</strong> Profitez d'une promenade tranquille le long du canyon de la Gravina, en admirant la nature environnante et les vues sur les Sassi depuis une perspective différente.",
+        "<strong>🍷 Dégustation de vins locaux:</strong> Terminez la journée par une dégustation de vins de la région, comme l'Aglianico del Vulture, dans une cave troglodyte."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Spécialités culinaires",
+          "texte": "Goûtez absolument aux \"orecchiette con le cime di rapa\" (pâtes aux brocolis-raves) et au \"pane di Matera\", un pain traditionnel protégé."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "👋",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez d'un dernier petit-déjeuner avec vue, visitez la majestueuse Cathédrale de Matera et faites quelques emplettes de dernière minute avant de reprendre la route vers l'aéroport de Bari pour votre vol retour.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>⛪ Visite de la Cathédrale de Matera:</strong> Explorez la magnifique Cathédrale de la Madonna della Bruna e di Sant'Eustachio, perchée au point le plus haut de la ville, offrant des vues imprenables.",
+        "<strong>🎁 Achats de souvenirs:</strong> Profitez de vos dernières heures pour acheter des souvenirs uniques, comme des objets en tuf, des produits alimentaires locaux ou de l'artisanat.",
+        "<strong>🚌 Transfert retour vers Bari:</strong> Reprenez le bus ou le train de Matera vers l'aéroport de Bari.",
+        "<strong>✈️ Vol retour vers Paris:</strong> Embarquez pour votre vol de retour, la tête remplie de souvenirs de cette ville extraordinaire."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Gestion du temps",
+          "texte": "Prévoyez suffisamment de temps pour le transfert Matera-Bari (environ 1h30) et l'enregistrement à l'aéroport."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 181 €/pers (A/R Paris-Bari)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40-60 €/pers (transferts Bari-Matera A/R)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 180-240 €/pers (45-60€/jour pour 3 repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180-240 €/pers (3 nuits en hôtel 3* troglodyte, base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50-80 €/pers (musées, églises rupestres, dégustations)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En avril-mai et septembre-octobre, les températures sont douces (15-25°C). Prévoir des vêtements légers pour la journée et une veste pour les soirées fraîches.", "symbole": "☀️" },
+    { "titre": "L'euro est la monnaie. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "La langue officielle est l'italien. Quelques notions de base seront appréciées, mais l'anglais est souvent parlé dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Matera se découvre principalement à pied. Les Sassi sont piétons et comportent de nombreuses montées et descentes. Un permis de conduire français est suffisant si vous louez une voiture pour explorer les environs.", "symbole": "🚶‍♀️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols Paris-Bari", "titre": "Réservez votre vol", "url": "https://www.skyscanner.fr/routes/paris-bari/vols-pas-chers-de-paris-a-bari.html", "symbole": "🛬" },
+    { "legende": "Office de Tourisme Matera", "titre": "Découvrez Matera", "url": "https://www.basilicataturistica.it/en/destinations/matera/", "symbole": "📘" },
+    { "legende": "Transports Bari-Matera", "titre": "Bus Pugliairbus", "url": "https://www.aeroportidipuglia.it/bus-pugliairbus", "symbole": "🚌" },
+    { "legende": "Météo Matera", "titre": "Prévisions météo", "url": "https://www.meteoblue.com/fr/meteo/semaine/matera_italie_6539567", "symbole": "🌤️" }
+  ]
+}
